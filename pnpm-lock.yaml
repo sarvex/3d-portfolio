@@ -20,10 +20,10 @@ devDependencies:
     specifier: ^18.2.7
     version: 18.2.15
   '@vitejs/plugin-react-swc':
-    specifier: ^3.3.2
+    specifier: 3.4.1
     version: 3.4.1(vite@4.5.0)
   autoprefixer:
-    specifier: ^10.4.16
+    specifier: 10.4.16
     version: 10.4.16(postcss@8.4.31)
   eslint:
     specifier: ^8.45.0
@@ -38,16 +38,16 @@ devDependencies:
     specifier: ^0.4.3
     version: 0.4.4(eslint@8.53.0)
   postcss:
-    specifier: ^8.4.31
+    specifier: 8.4.31
     version: 8.4.31
   react-router-dom:
     specifier: ^6.18.0
     version: 6.18.0(react-dom@18.2.0)(react@18.2.0)
   tailwindcss:
-    specifier: ^3.3.5
+    specifier: 3.3.5
     version: 3.3.5
   vite:
-    specifier: ^4.4.5
+    specifier: 4.5.0
     version: 4.5.0
 
 packages:
