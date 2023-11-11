@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#ffffff",
+    "statusBar.background": "#fbeefd",
+    "statusBar.border": "#fbeefd",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#f0c0f8",
+    "statusBarItem.remoteBackground": "#fbeefd",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#ffffff"
+  },
+  "peacock.color": "#fbeefd",
+  "marquee.widgets.npm-stats.packageNames": ["3d-portfolio"]
+}
