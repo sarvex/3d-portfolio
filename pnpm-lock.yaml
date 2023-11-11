@@ -26,16 +26,16 @@ devDependencies:
     specifier: 10.4.16
     version: 10.4.16(postcss@8.4.31)
   eslint:
-    specifier: ^8.45.0
+    specifier: 8.53.0
     version: 8.53.0
   eslint-plugin-react:
-    specifier: ^7.32.2
+    specifier: 7.33.2
     version: 7.33.2(eslint@8.53.0)
   eslint-plugin-react-hooks:
-    specifier: ^4.6.0
+    specifier: 4.6.0
     version: 4.6.0(eslint@8.53.0)
   eslint-plugin-react-refresh:
-    specifier: ^0.4.3
+    specifier: 0.4.4
     version: 0.4.4(eslint@8.53.0)
   postcss:
     specifier: 8.4.31
