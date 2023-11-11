@@ -10,28 +10,28 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-spring/three": "^9.7.3",
-    "@react-three/drei": "^9.88.13",
-    "@react-three/fiber": "^8.15.10",
-    "@types/three": "^0.158.2",
+    "@react-spring/three": "9.7.3",
+    "@react-three/drei": "9.88.13",
+    "@react-three/fiber": "8.15.10",
+    "@types/three": "0.158.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "three": "^0.158.0"
+    "three": "0.158.0"
   },
   "devDependencies": {
-    "@react-three/eslint-plugin": "^0.1.1",
+    "@react-three/eslint-plugin": "0.1.1",
     "@types/react": "18.2.37",
     "@types/react-dom": "18.2.15",
-    "@vitejs/plugin-react-swc": "^3.4.1",
-    "autoprefixer": "^10.4.16",
+    "@vitejs/plugin-react-swc": "3.4.1",
+    "autoprefixer": "10.4.16",
     "eslint": "8.53.0",
     "eslint-config-react-app": "7.0.1",
     "eslint-plugin-react": "7.33.2",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-react-refresh": "0.4.4",
-    "postcss": "^8.4.31",
+    "postcss": "8.4.31",
     "react-router-dom": "6.18.0",
-    "tailwindcss": "^3.3.5",
-    "vite": "^4.5.0"
+    "tailwindcss": "3.3.5",
+    "vite": "4.5.0"
   }
 }
