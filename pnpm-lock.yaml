@@ -18,10 +18,10 @@ dependencies:
     specifier: ^0.158.2
     version: 0.158.2
   react:
-    specifier: 18.2.0
+    specifier: ^18.2.0
     version: 18.2.0
   react-dom:
-    specifier: 18.2.0
+    specifier: ^18.2.0
     version: 18.2.0(react@18.2.0)
   three:
     specifier: ^0.158.0
@@ -41,31 +41,31 @@ devDependencies:
     specifier: ^3.4.1
     version: 3.4.1(vite@4.5.0)
   autoprefixer:
-    specifier: 10.4.16
+    specifier: ^10.4.16
     version: 10.4.16(postcss@8.4.31)
   eslint:
-    specifier: ^8.53.0
+    specifier: 8.53.0
     version: 8.53.0
   eslint-config-react-app:
-    specifier: ^7.0.1
+    specifier: 7.0.1
     version: 7.0.1(@babel/plugin-syntax-flow@7.23.3)(@babel/plugin-transform-react-jsx@7.22.15)(eslint@8.53.0)(typescript@5.2.2)
   eslint-plugin-react:
-    specifier: ^7.33.2
+    specifier: 7.33.2
     version: 7.33.2(eslint@8.53.0)
   eslint-plugin-react-hooks:
     specifier: 4.6.0
     version: 4.6.0(eslint@8.53.0)
   eslint-plugin-react-refresh:
-    specifier: ^0.4.4
+    specifier: 0.4.4
     version: 0.4.4(eslint@8.53.0)
   postcss:
-    specifier: 8.4.31
+    specifier: ^8.4.31
     version: 8.4.31
   react-router-dom:
-    specifier: 6.18.0
+    specifier: ^6.18.0
     version: 6.18.0(react-dom@18.2.0)(react@18.2.0)
   tailwindcss:
-    specifier: 3.3.5
+    specifier: ^3.3.5
     version: 3.3.5
   vite:
     specifier: ^4.5.0
