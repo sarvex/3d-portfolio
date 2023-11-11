@@ -10,5 +10,6 @@
     "tab.activeBorder": "#ffffff"
   },
   "peacock.color": "#fbeefd",
-  "marquee.widgets.npm-stats.packageNames": ["3d-portfolio"]
+  "marquee.widgets.npm-stats.packageNames": ["3d-portfolio"],
+  "cSpell.words": ["drei"]
 }
