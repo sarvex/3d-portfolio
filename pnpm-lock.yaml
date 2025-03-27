@@ -39,7 +39,7 @@ devDependencies:
     version: 19.0.4(@types/react@19.0.12)
   '@vitejs/plugin-react-swc':
     specifier: 3.8.1
-    version: 3.8.1(vite@5.4.12)
+    version: 3.8.1(vite@5.4.15)
   autoprefixer:
     specifier: 10.4.21
     version: 10.4.21(postcss@8.5.3)
@@ -68,8 +68,8 @@ devDependencies:
     specifier: 3.4.17
     version: 3.4.17
   vite:
-    specifier: 5.4.12
-    version: 5.4.12
+    specifier: 5.4.15
+    version: 5.4.15
 
 packages:
 
@@ -2649,13 +2649,13 @@ packages:
       react: 19.0.0
     dev: false
 
-  /@vitejs/plugin-react-swc@3.8.1(vite@5.4.12):
+  /@vitejs/plugin-react-swc@3.8.1(vite@5.4.15):
     resolution: {integrity: sha512-aEUPCckHDcFyxpwFm0AIkbtv6PpUp3xTb9wYGFjtABynXjCYKkWoxX0AOK9NT9XCrdk6mBBUOeHQS+RKdcNO1A==}
     peerDependencies:
       vite: ^4 || ^5 || ^6
     dependencies:
       '@swc/core': 1.11.13
-      vite: 5.4.12
+      vite: 5.4.15
     transitivePeerDependencies:
       - '@swc/helpers'
     dev: true
@@ -6433,8 +6433,8 @@ packages:
     engines: {node: '>= 4'}
     dev: false
 
-  /vite@5.4.12:
-    resolution: {integrity: sha512-KwUaKB27TvWwDJr1GjjWthLMATbGEbeWYZIbGZ5qFIsgPP3vWzLu4cVooqhm5/Z2SPDUMjyPVjTztm5tYKwQxA==}
+  /vite@5.4.15:
+    resolution: {integrity: sha512-6ANcZRivqL/4WtwPGTKNaosuNJr5tWiftOC7liM7G9+rMb8+oeJeyzymDu4rTN93seySBmbjSfsS3Vzr19KNtA==}
     engines: {node: ^18.0.0 || >=20.0.0}
     hasBin: true
     peerDependencies:
