@@ -7,13 +7,13 @@ settings:
 dependencies:
   '@react-spring/three':
     specifier: 10.0.1
-    version: 10.0.1(@react-three/fiber@9.1.4)(react@19.1.0)(three@0.177.0)
+    version: 10.0.1(@react-three/fiber@9.2.0)(react@19.1.0)(three@0.177.0)
   '@react-three/drei':
     specifier: 10.3.0
-    version: 10.3.0(@react-three/fiber@9.1.4)(@types/react@19.1.8)(@types/three@0.177.0)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0)
+    version: 10.3.0(@react-three/fiber@9.2.0)(@types/react@19.1.8)(@types/three@0.177.0)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0)
   '@react-three/fiber':
-    specifier: 9.1.4
-    version: 9.1.4(@types/react@19.1.8)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0)
+    specifier: 9.2.0
+    version: 9.2.0(@types/react@19.1.8)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0)
   '@types/three':
     specifier: 0.177.0
     version: 0.177.0
@@ -2006,7 +2006,7 @@ packages:
       react: 19.1.0
     dev: false
 
-  /@react-spring/three@10.0.1(@react-three/fiber@9.1.4)(react@19.1.0)(three@0.177.0):
+  /@react-spring/three@10.0.1(@react-three/fiber@9.2.0)(react@19.1.0)(three@0.177.0):
     resolution: {integrity: sha512-JAgA573EqG1WkDGameWv0HYlPL5KYwVCRhXroBq5Ed0Chc9xXuAZU8fyNg9/uup8Pc32iGSW0PHRt0msvPNg+w==}
     peerDependencies:
       '@react-three/fiber': '>=6.0'
@@ -2017,7 +2017,7 @@ packages:
       '@react-spring/core': 10.0.1(react@19.1.0)
       '@react-spring/shared': 10.0.1(react@19.1.0)
       '@react-spring/types': 10.0.1
-      '@react-three/fiber': 9.1.4(@types/react@19.1.8)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0)
+      '@react-three/fiber': 9.2.0(@types/react@19.1.8)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0)
       react: 19.1.0
       three: 0.177.0
     dev: false
@@ -2026,7 +2026,7 @@ packages:
     resolution: {integrity: sha512-Fk1wYVAKL+ZTYK+4YFDpHf3Slsy59pfFFvnnTfRjQQFGlyIo4VejPtDs3CbDiuBjM135YztRyZjIH2VbycB+ZQ==}
     dev: false
 
-  /@react-three/drei@10.3.0(@react-three/fiber@9.1.4)(@types/react@19.1.8)(@types/three@0.177.0)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0):
+  /@react-three/drei@10.3.0(@react-three/fiber@9.2.0)(@types/react@19.1.8)(@types/three@0.177.0)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0):
     resolution: {integrity: sha512-+4NHCAUI38jp8XlbuKKWl/23y3F/JKdkvnYsrVXxhw150OyWKJoft+Yyd7dl6awxfV/Gn08x3R9pRRFUuDQwDA==}
     peerDependencies:
       '@react-three/fiber': ^9.0.0
@@ -2040,7 +2040,7 @@ packages:
       '@babel/runtime': 7.27.0
       '@mediapipe/tasks-vision': 0.10.17
       '@monogrid/gainmap-js': 3.1.0(three@0.177.0)
-      '@react-three/fiber': 9.1.4(@types/react@19.1.8)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0)
+      '@react-three/fiber': 9.2.0(@types/react@19.1.8)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0)
       '@use-gesture/react': 10.3.1(react@19.1.0)
       camera-controls: 2.10.0(three@0.177.0)
       cross-env: 7.0.3
@@ -2077,8 +2077,8 @@ packages:
       - supports-color
     dev: true
 
-  /@react-three/fiber@9.1.4(@types/react@19.1.8)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0):
-    resolution: {integrity: sha512-Ugzs6n6YNORSa4hRZH1CKTd5DLTzwOvYjze+EZWS8iVDyeNQETnLzuke+MMEuXTqM8eAV/gyWgd27t/GR41oGA==}
+  /@react-three/fiber@9.2.0(@types/react@19.1.8)(react-dom@19.1.0)(react@19.1.0)(three@0.177.0):
+    resolution: {integrity: sha512-esZe+E9T/aYEM4HlBkirr/yRE8qWTp9WUsLISyHHMCHKlJv85uc5N4wwKw+Ay0QeTSITw6T9Q3Svpu383Q+CSQ==}
     peerDependencies:
       expo: '>=43.0'
       expo-asset: '>=8.4'
