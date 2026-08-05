@@ -9,8 +9,8 @@ dependencies:
     specifier: 10.0.1
     version: 10.0.1(@react-three/fiber@9.4.0)(react@19.2.0)(three@0.177.0)
   '@react-three/drei':
-    specifier: 10.3.0
-    version: 10.3.0(@react-three/fiber@9.4.0)(@types/react@19.2.2)(@types/three@0.177.0)(react-dom@19.2.0)(react@19.2.0)(three@0.177.0)
+    specifier: 10.7.8
+    version: 10.7.8(@react-three/fiber@9.4.0)(@types/react@19.2.2)(@types/three@0.177.0)(react-dom@19.2.0)(react@19.2.0)(three@0.177.0)
   '@react-three/fiber':
     specifier: 9.4.0
     version: 9.4.0(@types/react@19.2.2)(react-dom@19.2.0)(react@19.2.0)(three@0.177.0)
@@ -2026,8 +2026,8 @@ packages:
     resolution: {integrity: sha512-Fk1wYVAKL+ZTYK+4YFDpHf3Slsy59pfFFvnnTfRjQQFGlyIo4VejPtDs3CbDiuBjM135YztRyZjIH2VbycB+ZQ==}
     dev: false
 
-  /@react-three/drei@10.3.0(@react-three/fiber@9.4.0)(@types/react@19.2.2)(@types/three@0.177.0)(react-dom@19.2.0)(react@19.2.0)(three@0.177.0):
-    resolution: {integrity: sha512-+4NHCAUI38jp8XlbuKKWl/23y3F/JKdkvnYsrVXxhw150OyWKJoft+Yyd7dl6awxfV/Gn08x3R9pRRFUuDQwDA==}
+  /@react-three/drei@10.7.8(@react-three/fiber@9.4.0)(@types/react@19.2.2)(@types/three@0.177.0)(react-dom@19.2.0)(react@19.2.0)(three@0.177.0):
+    resolution: {integrity: sha512-rJXyuzLm2Xq0kafHuR47ajDGbOe/pEhzIr4m8E8zwzQs0iNjloFDqBwRhrXmP/w+onLeYyN3EYPFW/cwWK/4yA==}
     peerDependencies:
       '@react-three/fiber': ^9.0.0
       react: ^19
@@ -2042,7 +2042,7 @@ packages:
       '@monogrid/gainmap-js': 3.1.0(three@0.177.0)
       '@react-three/fiber': 9.4.0(@types/react@19.2.2)(react-dom@19.2.0)(react@19.2.0)(three@0.177.0)
       '@use-gesture/react': 10.3.1(react@19.2.0)
-      camera-controls: 2.10.0(three@0.177.0)
+      camera-controls: 3.1.2(three@0.177.0)
       cross-env: 7.0.3
       detect-gpu: 5.0.70
       glsl-noise: 0.0.0
@@ -3043,8 +3043,9 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /camera-controls@2.10.0(three@0.177.0):
-    resolution: {integrity: sha512-vBQ5Daxv4KRsn07U/VqkPxoqD8U+S++0oq5NLf4HevMuh/BDta3rg49e/P564AMzFPBePQeXDKOkiIezRgyDwg==}
+  /camera-controls@3.1.2(three@0.177.0):
+    resolution: {integrity: sha512-xkxfpG2ECZ6Ww5/9+kf4mfg1VEYAoe9aDSY+IwF0UEs7qEzwy0aVRfs2grImIECs/PoBtWFrh7RXsQkwG922JA==}
+    engines: {node: '>=22.0.0', npm: '>=10.5.1'}
     peerDependencies:
       three: '>=0.126.1'
     dependencies:
